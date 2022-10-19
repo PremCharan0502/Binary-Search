@@ -1,5 +1,3 @@
-//Prims algorithm 
-
 #include<stdio.h>
 #include<stdlib.h>
 int i,j,k,a,b,u,v,n,m=1;
