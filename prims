@@ -40,3 +40,5 @@ int main()
 	}
 	printf("\nMinimum cost = %d",mincost);
 }
+
+The time complexity of the Prim's Algorithm is O ( ( V + E ) l o g V )
