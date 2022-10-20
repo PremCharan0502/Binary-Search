@@ -67,3 +67,7 @@ void dijkstra(int G[MAX][MAX],int n,int startnode)
            }while(j!=startnode);
        }
 }
+
+It has a time complexity of O(V^2)O(V 
+2
+ ) using the adjacency matrix representation of graph. The time complexity can be reduced to O((V+E)logV)O((V+E)logV) using adjacency list
