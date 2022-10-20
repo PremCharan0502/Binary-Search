@@ -59,3 +59,6 @@ int uni(int i,int j)
 	}
 	return 0;
 }
+
+O(E log V)
+Kruskal's algorithm's time complexity is O(E log V), V being the number of vertices.
